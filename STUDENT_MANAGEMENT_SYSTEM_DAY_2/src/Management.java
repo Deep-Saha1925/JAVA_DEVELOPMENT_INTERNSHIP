@@ -1,4 +1,4 @@
-package STUDENT_MANAGEMENT_SYSTEM.src;
+package STUDENT_MANAGEMENT_SYSTEM_DAY_2.src;
 import java.util.ArrayList;
 import java.util.Scanner;
 
