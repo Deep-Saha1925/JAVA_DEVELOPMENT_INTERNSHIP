@@ -3,6 +3,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Scanner;
+import java.io.BufferedReader;
 
 public class NoteApp {
     public void addNote(Scanner sc, String fileName) {
